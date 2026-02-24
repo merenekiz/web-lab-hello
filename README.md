@@ -6,8 +6,10 @@ semantik HTML5 etiketleri ve erisilebilirlik (a11y) prensipleri kullanilarak
 hazirlanmis kisisel portfoy sayfasidir.
 
 ## Gelistirici
-- **Ad Soyad:** mustafa erene ekiz
+
+- **Ad Soyad:** mustafa eren ekiz
 - **Ogrenci No:** 235541079
+
 
 ## Kullanilan Teknolojiler
 - React
@@ -26,4 +28,6 @@ hazirlanmis kisisel portfoy sayfasidir.
 npm install
 ```
 
+
 skor.png
+
