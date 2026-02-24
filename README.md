@@ -26,8 +26,6 @@ hazirlanmis kisisel portfoy sayfasidir.
 ## Kurulum
 ```bash
 npm install
-
-
-
-'skor.png'
 ```
+
+![Skor](public/skor.png)
