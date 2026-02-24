@@ -6,8 +6,10 @@ semantik HTML5 etiketleri ve erisilebilirlik (a11y) prensipleri kullanilarak
 hazirlanmis kisisel portfoy sayfasidir.
 
 ## Gelistirici
-- **Ad Soyad:** Elif Beyza Ekiz
-- **Ogrenci No:** BURAYA_NUMARANI_YAZ
+
+- **Ad Soyad:** mustafa eren ekiz
+- **Ogrenci No:** 235541079
+
 
 ## Kullanilan Teknolojiler
 - React
@@ -24,5 +26,8 @@ hazirlanmis kisisel portfoy sayfasidir.
 ## Kurulum
 ```bash
 npm install
+```
 
-<img width="1657" height="1040" alt="Ekran Resmi 2026-02-24 14 25 26" src="https://github.com/user-attachments/assets/79b50b07-0a84-4d02-8064-7ac45183d96d" />
+
+skor.png
+
