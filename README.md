@@ -29,5 +29,5 @@ npm install
 
 
 
-skor.png
+'skor.png'
 ```
